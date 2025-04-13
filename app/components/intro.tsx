@@ -39,7 +39,7 @@ export default function Intro() {
           Welcome! I&apos;m
         </h1>
         <h1 className="md:text-7xl text-5xl font-bold sm:mb-2 mb-1 flex items-end">
-          Alex Ross{' '}
+          Jainendra Ketha{' '}
         </h1>
         <h2 className="lg:text-3xl font-medium text-2xl text-white/50 mb-8">
           Software Engineer

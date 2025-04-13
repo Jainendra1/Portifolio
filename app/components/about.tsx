@@ -73,7 +73,7 @@ export default function About() {
         >
           <Image
             src={profilePic}
-            alt="Alex Ross"
+            alt="Jainendra Ketha"
             className="rounded-xl shadow-xl shadow-slate-900 lg:h-72 h-56 w-auto brightness-90"
           />
         </motion.div>
