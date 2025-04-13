@@ -71,7 +71,6 @@ export default function About() {
           viewport={{ once: true }}
           className="justify-center items-center p-4 lg:flex hidden"
         >
-          //Place the Image Here
           {/* <Image
             src={profilePic}
             alt="Jainendra Ketha"
