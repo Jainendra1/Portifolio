@@ -61,7 +61,7 @@ const About = () => {
             }
             height={350}
             ref={profile2Ref}
-            src='http://res.cloudinary.com/dqfrtazgi/image/upload/v1696181689/wt7sys9ubcvc41v6clq8.jpg'
+            src=''
             width={350}
           />
           <div
@@ -70,7 +70,7 @@ const About = () => {
           >
             {/* Full Name */}
             <p className='text-3xl text-center md:text-left font-semibold text-[#c72c6c] dark:text-[#07d0e5]'>
-              Shivraj Gurjar
+              Jainendra Ketha
             </p>
             {/* Profil Name */}
             <p className='text-center md:text-left text-red-600 mt-1'>
@@ -88,7 +88,7 @@ const About = () => {
                   </p>
                 </div>
                 <p className='text-center md:text-left text-[#0b0c0c] dark:text-[#07d0e5]'>
-                  Kota Rajasthan India{" "}
+                  Hyderabad, India{" "}
                 </p>
               </div>
               {/* Age */}
@@ -102,7 +102,7 @@ const About = () => {
                   </p>
                 </div>
                 <p className='text-center md:text-left text-[#c72c6c] dark:text-[#07d0e5]'>
-                  20{" "}
+                  24{" "}
                 </p>
               </div>
               {/* Experience */}
@@ -116,7 +116,7 @@ const About = () => {
                   </p>
                 </div>
                 <p className='text-center md:text-left text-[#c72c6c] dark:text-[#07d0e5]'>
-                  1 Year{" "}
+                  2 Year{" "}
                 </p>
               </div>
               {/* Project */}
@@ -130,7 +130,7 @@ const About = () => {
                   </p>
                 </div>
                 <p className='text-center md:text-left text-[#c72c6c] dark:text-[#07d0e5]'>
-                  3{" "}
+                  6{" "}
                 </p>
               </div>
             </div>
