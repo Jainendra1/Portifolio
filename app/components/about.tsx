@@ -71,11 +71,12 @@ export default function About() {
           viewport={{ once: true }}
           className="justify-center items-center p-4 lg:flex hidden"
         >
-          <Image
+          //Place the Image Here
+          {/* <Image
             src={profilePic}
             alt="Jainendra Ketha"
             className="rounded-xl shadow-xl shadow-slate-900 lg:h-72 h-56 w-auto brightness-90"
-          />
+          /> */}
         </motion.div>
       </div>
       <motion.h2
