@@ -58,8 +58,8 @@ const Contact = () => {
             <ToastContainer />
 
             <div className="w-full lg:w-5/6 2xl:w-3/4 mt-10 md:mt-16 mx-auto flex justify-between rounded-xl">
-                {/* blurDataURL="https://i.imgur.com/owZdhjA.png" */}
-                <Image unoptimized={true} quality={100} alt="contact" src="/contact.png" className="hidden md:block w-1/2 h-full object-cover" width={1000} height={1000} />
+                {/* https://drive.google.com/uc?export=download&id=1SE8f4akepl7gTD7WqrVp2cSFr7xvmVj_" */}
+                <Image unoptimized={true} quality={100} alt="contact" src="/contactf.png" className="hidden md:block w-1/2 h-full object-cover" width={1000} height={1000} />
                 <div className="flex-1">
                     <h3 className="text-2xl">Get in touch</h3>
                     <p className="text-gray-400 mb-4 text-sm md:text-base">My inbox is always open! 💌 Whether you&apos;ve got a burning question or want to drop a friendly &quot;hello&quot;, I&apos;m all ears!👂 Let&apos;s chat! 🎉</p>
