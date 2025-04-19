@@ -14,7 +14,8 @@ async function getData(): Promise<DataType> {
         "Frontend Development",
         "App Development"
       ],
-      "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+      //"heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+      "heroImage": "https://drive.google.com/uc?export=download&id=1UQt7_B6QOWqz0MSFeQ7988nCs7ujU6Es",
       "techStackImages": [
         "https://img.icons8.com/color/144/000000/material-ui.png",
         "https://img.icons8.com/color/144/000000/html-5--v1.png",
@@ -23,7 +24,8 @@ async function getData(): Promise<DataType> {
       ]
     },
     "about": {
-      "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+      //"aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+      "aboutImage": "https://drive.google.com/uc?export=download&id=1UQt7_B6QOWqz0MSFeQ7988nCs7ujU6Es",
       "aboutImageCaption": "< I build stuff 🚀/>",
       "title": "Full Stack Developer",
       "about": "I am a Full-Stack developer based in Pune, India. I'm an Information Technology undergraduate from SPPU, and my journey in web development began during my first year of college. I'm passionate about creating beautiful, functional, and user-friendly websites and applications, and I'm constantly pushing myself to learn and grow as a developer. Love building full-stack clones and side projects.",
