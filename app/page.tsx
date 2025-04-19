@@ -196,6 +196,30 @@ async function getData(): Promise<DataType> {
       },
 
       {
+        "name": "School",
+        "techstack": "ReactJS, NodeJS, ExpressJS, MongoDB, TailwindCSS",
+        "category": "MERN Stack",
+        "image": "https://drive.google.com/uc?export=download&id=1Pjas1frOxwGfhUaQt8RbH67RvJ1ATcbn",
+        "links": {
+          "code": "",
+          "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          "visit": "https://mlstest.dosystemsinc.com/"
+        }
+      },
+
+      {
+        "name": "Crash Cart",
+        "techstack": "ReactJS, NodeJS, ExpressJS, MongoDB, TailwindCSS",
+        "category": "MERN Stack",
+        "image": "https://drive.google.com/uc?export=download&id=1tnF2w9y265pWE7GfPU6axmrd3fO1rLix",
+        "links": {
+          "code": "",
+          "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          "visit": "https://cc.dosystemsinc.com/"
+        }
+      },
+
+      {
         "name": "MLS: Multiple Listing Service",
         "techstack": "ReactJS, NodeJS, ExpressJS, MongoDB, Flutter, Dart",
         "category": "Mobile",
