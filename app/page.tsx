@@ -34,7 +34,7 @@ async function getData(): Promise<DataType> {
       "title": "Full Stack Developer",
       "about": "I am a Full-Stack developer based in Hyderabad, India. I aspire to utilize my expertise in object oriented programming in an esteemed software organization that will enable me to use my strong organizational skills and educational background, where I can grow with the growth of the company.",
       "callUrl": "",
-      "resumeUrl": "https://www.linkedin.com/404/"
+      "resumeUrl": "https://drive.google.com/file/d/1DylowhhoEE5zObn3zWF5WeG3y7Toiri8/view"
     },
 
 
@@ -187,11 +187,11 @@ async function getData(): Promise<DataType> {
         "name": "MLS: Multiple Listing Service",
         "techstack": "ReactJS, NodeJS, ExpressJS, MongoDB, TailwindCSS",
         "category": "MERN Stack",
-        "image": "https://img.freepik.com/free-vector/real-estate-search-concept-illustration_114360-4826.jpg",
+        "image": "https://drive.google.com/uc?export=download&id=1K93-T3pd6JMNz992W5brCDvQNBonE5Nn",
         "links": {
-          "code": "https://github.com/yourusername/mls-platform",
+          "code": "",
           "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-          "visit": "https://mls-realestate.vercel.app/"
+          "visit": "https://mlstest.dosystemsinc.com/"
         }
       },
 
@@ -199,11 +199,11 @@ async function getData(): Promise<DataType> {
         "name": "MLS: Multiple Listing Service",
         "techstack": "ReactJS, NodeJS, ExpressJS, MongoDB, Flutter, Dart",
         "category": "Flutter",
-        "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+        "image": "https://drive.google.com/uc?export=download&id=1Tjob5A3HCk2TOHzkkTRN2NICMEX-smih",
         "links": {
           "code": "",
           "video": "https://www.youtube.com/watch?v=JWFQYw9t5bM",
-          "visit": "https://instagramweb-mern.vercel.app/"
+          "visit": "https://play.google.com/store/apps/details?id=com.mlsapp.mobileApp&hl=en_IN&pli=1"
         }
       },
     ],
