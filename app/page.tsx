@@ -198,7 +198,7 @@ async function getData(): Promise<DataType> {
       {
         "name": "MLS: Multiple Listing Service",
         "techstack": "ReactJS, NodeJS, ExpressJS, MongoDB, Flutter, Dart",
-        "category": "Flutter",
+        "category": "Mobile",
         "image": "https://drive.google.com/uc?export=download&id=1Tjob5A3HCk2TOHzkkTRN2NICMEX-smih",
         "links": {
           "code": "",
