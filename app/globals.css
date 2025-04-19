@@ -1,32 +1,31 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"); */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-.bg-gradient {
-  background: rgb(15, 23, 42);
-  background: -moz-linear-gradient(
-    180deg,
-    rgba(15, 23, 42, 1) 0%,
-    rgba(0, 33, 64, 1) 100%
-  );
-  background: -webkit-linear-gradient(
-    180deg,
-    rgba(15, 23, 42, 1) 0%,
-    rgba(0, 33, 64, 1) 100%
-  );
-  background: linear-gradient(
-    180deg,
-    rgba(15, 23, 42, 1) 0%,
-    rgba(0, 33, 64, 1) 100%
-  );
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0f172a",endColorstr="#002140",GradientType=1);
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth !important;
+}
+
+/* body {
+  font-family: "Poppins", sans-serif;
+} */
+
+::-webkit-scrollbar {
+  width: 0.5rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #6565656a;
 }
 
 .scroll-hide::-webkit-scrollbar {
   display: none;
-}
-
-.scroll-hide {
-  -ms-overflow-style: none;
-  scrollbar-width: none;
 }
