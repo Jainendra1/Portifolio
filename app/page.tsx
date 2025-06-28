@@ -36,7 +36,7 @@ async function getData(): Promise<DataType> {
       "title": "Full Stack Developer",
       "about": "I am a Full-Stack developer based in Hyderabad, India. I aspire to utilize my expertise in object oriented programming in an esteemed software organization that will enable me to use my strong organizational skills and educational background, where I can grow with the growth of the company.",
       "callUrl": "",
-      "resumeUrl": "https://drive.google.com/file/d/1DylowhhoEE5zObn3zWF5WeG3y7Toiri8/view"
+      "resumeUrl": "https://drive.google.com/file/d/1jnPy6hzq7JN3f9_HvdQL1PISiPW-vd0f/view?usp=sharing"
     },
 
 
@@ -45,23 +45,23 @@ async function getData(): Promise<DataType> {
       {
         "name": "likedIn",
         "icon": "FaLinkedin",
-        "link": "https://www.linkedin.com/in/jhon-doe"
+        "link": "https://www.linkedin.com/in/deepika-redrouthu-17ba04197"
       },
       {
         "name": "Github",
         "icon": "FaGithub",
         "link": "https://github.com/deepikaredrouthu"
       },
-      {
-        "name": "Insta",
-        "icon": "FaInstagram",
-        "link": "https://www.instagram.com/jhondoe"
-      },
-      {
-        "name": "Twitter",
-        "icon": "FaTwitter",
-        "link": "https://twitter.com/jhondoe"
-      }
+      // {
+      //   "name": "Insta",
+      //   "icon": "FaInstagram",
+      //   "link": "https://www.instagram.com/jhondoe"
+      // },
+      // {
+      //   "name": "Twitter",
+      //   "icon": "FaTwitter",
+      //   "link": "https://twitter.com/jhondoe"
+      // }
     ],
 
 
@@ -149,11 +149,11 @@ async function getData(): Promise<DataType> {
         "image": "https://img.icons8.com/color/480/firebase.png",
         "category": "Backend"
       },
-      {
-        "name": "MySQL",
-        "image": "https://img.icons8.com/fluency/480/mysql-logo.png",
-        "category": "Backend"
-      },
+      // {
+      //   "name": "MySQL",
+      //   "image": "https://img.icons8.com/fluency/480/mysql-logo.png",
+      //   "category": "Backend"
+      // },
       /******************TOOLS*****************************/
       {
         "name": "GitHub",
@@ -192,31 +192,42 @@ async function getData(): Promise<DataType> {
         "image": "https://drive.google.com/uc?export=download&id=1K93-T3pd6JMNz992W5brCDvQNBonE5Nn",
         "links": {
           "code": "",
-          "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          "video": "",
           "visit": "https://mlstest.dosystemsinc.com/"
+        }
+      },
+      {
+        "name": "DMS: Document Management System",
+        "techstack": "ReactJS, NodeJS, ExpressJS, MongoDB, TailwindCSS,Redux Toolkit",
+        "category": "MERN Stack",
+        "image": "https://drive.google.com/uc?export=download&id=1uP9ominJ4MxSy_JztaIV2aENyjr25OgX",
+        "links": {
+          "code": "",
+          "video": "",
+          "visit": "https://dmsdev.dosystemsinc.com/"
         }
       },
 
-      {
-        "name": "School",
-        "techstack": "ReactJS, NodeJS, ExpressJS, MongoDB, TailwindCSS",
-        "category": "MERN Stack",
-        "image": "https://drive.google.com/uc?export=download&id=1Pjas1frOxwGfhUaQt8RbH67RvJ1ATcbn",
-        "links": {
-          "code": "",
-          "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-          "visit": "https://mlstest.dosystemsinc.com/"
-        }
-      },
+      // {
+      //   "name": "School",
+      //   "techstack": "ReactJS, NodeJS, ExpressJS, MongoDB, TailwindCSS",
+      //   "category": "MERN Stack",
+      //   "image": "https://drive.google.com/uc?export=download&id=1Pjas1frOxwGfhUaQt8RbH67RvJ1ATcbn",
+      //   "links": {
+      //     "code": "",
+      //     "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      //     "visit": "https://mlstest.dosystemsinc.com/"
+      //   }
+      // },
 
       {
         "name": "Crash Cart",
         "techstack": "ReactJS, NodeJS, ExpressJS, MongoDB, TailwindCSS",
         "category": "MERN Stack",
-        "image": "https://drive.google.com/uc?export=download&id=1tnF2w9y265pWE7GfPU6axmrd3fO1rLix",
+        "image": "https://drive.google.com/uc?export=download&id=1z0Qi9tPAJX5anDPajfY322I-wbPiIUYJ",
         "links": {
           "code": "",
-          "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          "video": "",
           "visit": "https://cc.dosystemsinc.com/"
         }
       },
@@ -228,7 +239,7 @@ async function getData(): Promise<DataType> {
         "image": "https://drive.google.com/uc?export=download&id=1Tjob5A3HCk2TOHzkkTRN2NICMEX-smih",
         "links": {
           "code": "",
-          "video": "https://www.youtube.com/watch?v=JWFQYw9t5bM",
+          "video": "",
           "visit": "https://play.google.com/store/apps/details?id=com.mlsapp.mobileApp&hl=en_IN&pli=1"
         }
       },
@@ -236,24 +247,27 @@ async function getData(): Promise<DataType> {
 
     "educations": [
       {
-        "institute": "XYZ School | SSC",
-        "degree": "HSC Science",
-        "duration": "2014 - 2016",
-        "startDate": "01/01/2001",
-        "endDate": "01/01/2025",
-        "desc": ["CHeck"]
+        "institute": "Sri Chaitanya Junior College | SSC",
+        "degree": "MPC",
+        "duration": "2016 - 2018",
+        "startDate": "01/04/2016",
+        "endDate": "01/04/2018",
+        "desc": []
       },
       {
-        "institute": "XYZ College Of Engineering",
-        "degree": "B.Tech CSE",
-        "duration": "2016 - 2020",
-        "startDate": "01/01/2001",
-        "endDate": "01/01/2025",
-        "desc": [
-          "Pursuing IT Engineering course from ABC University",
-          "Worked on web application development using HTML, CSS, and JavaScript, designing a database system using SQL",
-          "Familiar with software development methodologies and project management practices, including Agile and Waterfall methodologies."
+        "institute": "ASN Women's Engineering College",
+        "degree": "B.Tech ECE",
+        "duration": "2018 - 2022",
+        "startDate": "01/04/2018",
+        "endDate": "01/04/2022",
+       "desc": [
+        "Graduated with a B.Tech in Electronics and Communication Engineering.",
+        "Gained practical experience in web development through academic projects.",
+        "Developed interactive web pages using HTML, CSS, and JavaScript.",
+        "Collaborated with a small team to plan and build web features effectively.",
+        "Took initiative in leading project tasks and coordinating with peers."
         ]
+
       }
     ],
 
@@ -267,10 +281,18 @@ async function getData(): Promise<DataType> {
         "startDate": "10/01/2023",
         "endDate": "17/04/2025",
         "desc": [
-          "Assisted with design and development of project.",
-          "Worked on building the product from scratch and built multiple dashboards.",
-          "Skills: ReactJS . HTML · CSS · Flutter . Dart . JavaScript · NodeJS"
+          "Contributed to the overall design and development of the project.",
+          "Played a key role in building the product from scratch, including multiple interactive dashboards.",
+          "Technical skills include ReactJS, HTML, CSS, Flutter, Dart, JavaScript, and NodeJS.",
+          "Built a responsive web application using React.js and Tailwind CSS, increasing user engagement by 15%.",
+          "Collaborated with a team of four to develop RESTful APIs using Node.js and Express for smooth frontend-backend integration.",
+          "Optimized MongoDB queries, reducing response times by 20% and enhancing backend performance.",
+          "Developed reusable React components to streamline code maintenance and accelerate development.",
+          "Implemented efficient state management using React Hooks and the Context API.",
+          "Enhanced frontend performance by reducing re-renders and integrating lazy loading techniques.",
+          "Applied modern JavaScript practices (ES6+), including async/await, arrow functions, and destructuring for cleaner, maintainable code."
         ]
+
       },
     ]
 
